@@ -1,0 +1,6 @@
+git clone https://github.com/SEU_USUARIO/seunegocio.github.io
+cp landing_shopee.html index.html
+cd seunegocio.github.io
+git add index.html
+git commit -m "Deploy landing Shopee"
+git push
